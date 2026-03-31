@@ -39,6 +39,23 @@ The goal is to build practical AI systems that can be used in real business envi
 - Share structured prompt systems
 - Build simple automation examples
 
+- ## Repository Roadmap
+
+### Current
+- Prompt systems for content creation
+- Workflow notes for marketing operations
+- Examples for B2B messaging and product storytelling
+
+### In Progress
+- Standardized caption frameworks
+- Repeatable short-form video systems
+- AI-assisted briefing templates
+
+### Planned
+- Workflow templates for campaign planning
+- Messaging systems for product launches
+- Documentation for reusable content pipelines
+
 ---
 
 More updates coming soon.
